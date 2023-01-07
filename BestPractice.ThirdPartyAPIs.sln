@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleverAPI", "CleverAPI", "{D52559FC-A939-497C-B3B2-F699629BA22B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StytchAPI", "StytchAPI", "{28BACEC5-8860-40EC-9ECD-D714AC1E2A69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HubSpotAPI", "HubSpotAPI", "{17673868-B47C-4B67-A63A-4796E922DB65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwilioAPI", "TwilioAPI", "{C33CB3F7-1291-470F-8812-8264EF2572E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecurlyAPI", "RecurlyAPI", "{37A21B1B-45B8-404B-81B8-9475C5D18EA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StripeAPI", "StripeAPI", "{12681253-ADA1-4566-9A35-64C9C70134A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmailAPI", "EmailAPI", "{F5FC00C6-E4D6-4344-84AF-4756FA7EA657}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B463F400-28B9-40F1-AE77-6CBC85D120F6}
+	EndGlobalSection
+EndGlobal
